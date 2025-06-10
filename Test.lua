@@ -1,0 +1,1 @@
+print("The logo of Lua is Moon")
